@@ -9,4 +9,4 @@ O mais importante para nós é que possam celebrar connosco o dia do nosso casam
 
 
 
-IBAN .
+IBAN: PT50 0018 0008 0669 5414 0203 0.
