@@ -1,0 +1,16 @@
+
+{{ define "main" -}}
+{{ partial "shared/navigation.html" . }}
+
+<section class="section light standalone">
+    <!-- <div class="section__svg">
+        {{ partial "svgs/leaf.svg" . }}
+    </div> -->
+    <img src="https://res.cloudinary.com/dbntshoo1/image/upload/v1724425189/hoortenseabranca_tfcsov.png"
+            style="display: block; margin: 0 auto; max-width: 20%; height: auto;">
+    <h1 class="section__heading">{{.Page.Title}}</h1>
+    {{ .Page.Content }}
+</section>
+
+{{ partial "shared/footer.html" . }}
+{{- end }}

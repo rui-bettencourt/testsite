@@ -1,0 +1,154 @@
+<main>
+    <div class="image image1"></div>
+
+
+    <section id="when" class="section light">
+        <!-- <div class="section__svg">
+            {{ partial "svgs/leaf.svg" . }}
+        </div> -->
+
+        <img src="https://res.cloudinary.com/dbntshoo1/image/upload/v1724425189/hoortenseaazul_gxcopn.png"
+            style="display: block; margin: 0 auto; max-width: 20%; height: auto;">
+        <h1 class="section__heading">O Casamento</h1>
+        <div class="data_casamento">
+            <p class="section__text">
+                {{ .Params.when }}
+            </p>
+        </div>
+        <section class="section__split">
+            <div class="sitio">
+                <p style="font-family: 'Dancing Script', cursive; font-size: 2.5rem; font-weight: bold;">Igreja: </p>
+
+                <br>
+
+                <p class="section__text">
+                    {{ .Params.where.first }}
+                </p>
+
+                <br>
+
+                <img src="https://res.cloudinary.com/dbntshoo1/image/upload/v1724177890/igreja_nwaaxb.jpg"
+                    alt="Igreja matriz de Velas" style="max-width: 90%; height: auto;">
+            </div>
+            <div class="sitio">
+                <p style="font-family: 'Dancing Script', cursive; font-size: 2.5rem; font-weight: bold;">Copo de Água:
+                </p>
+
+                <br>
+
+                <p class="section__text">
+                    {{ .Params.where.second }}
+                </p>
+
+                <br>
+
+                <img src="https://res.cloudinary.com/dbntshoo1/image/upload/v1724177889/buganvilias_dwokzx.jpg"
+                    alt="Cantinho das Buganvilias" style="max-width: 90%; height: auto;">
+            </div>
+        </section>
+        <!-- My CSS in this project is bad, man -->
+        <section style="display:flex;flex-direction:column;align-items:center;">
+            <h2 style="margin-top:2rem;" class="section__heading">Confirmação</h2>
+            <a href="/rsvp" style="display:block;width:fit-content;text-decoration:none;">
+                <p class="rsvp-button" style="text-align:center;">Clique aqui para confirmar a sua presença!</p>
+            </a>
+        </section>
+    </section>
+
+    <!-- <div class="image image2"></div> -->
+
+
+    <!-- <section id="order-of-events" class="section light">
+        <div class="section__svg">
+            {{ partial "svgs/leaves.svg" . }}
+        </div>
+
+        {{ $t := .Site.GetPage "/section/order-of-events" }}
+        <h1 class="section__heading">{{$t.Params.title}}</h1>
+        <section class="section__md-content">
+            {{ $t.Content }}
+        </section>
+    </section> -->
+
+    <div class="image image3"></div>
+
+    <section id="travel-accommodation" class="section light">
+        <!-- <div class="section__svg">
+            {{ partial "svgs/leaf.svg" . }}
+        </div> -->
+        <img src="https://res.cloudinary.com/dbntshoo1/image/upload/v1724425189/hoortenseabranca_tfcsov.png"
+            style="display: block; margin: 0 auto; max-width: 20%; height: auto;">
+
+        {{ $t := .Site.GetPage "/section/travel-accommodation" }}
+        <h1 class="section__heading">{{$t.Params.title}}</h1>
+        <section class="section__md-content">
+            {{ $t.Content }}
+        </section>
+    <!-- </section>
+
+    <section id="passeio" class="section light"> -->
+        <br>
+        <!-- <div class="section__svg">
+            {{ partial "svgs/leaf.svg" . }}
+        </div> -->
+        <div class="image-container">
+            <img src="https://res.cloudinary.com/dbntshoo1/image/upload/v1724335821/ferraafonso_hx9vz0.jpg" alt="Mariana num miradouro" style="max-width: 45%; height: auto;">
+            <img src="https://res.cloudinary.com/dbntshoo1/image/upload/v1724336329/IMG_20200814_182041_pxiveb.jpg" alt="Rui na fajã dos Cubres" style="max-width: 44.9%; height: auto;">
+        </div>
+
+        <br>
+
+        {{ $t := .Site.GetPage "/section/passeio" }}
+        <h1 class="section__heading">{{$t.Params.title}}</h1>
+        <section class="section__md-content">
+            {{ $t.Content }}
+        </section>
+
+    </section>
+
+    <div class="image image1"></div>
+
+    <section id="dress" class="section light">
+        <!-- <div class="section__svg">
+            {{ partial "svgs/leaf.svg" . }}
+        </div> -->
+        <img src="https://res.cloudinary.com/dbntshoo1/image/upload/v1724425189/hoortensearosa_d6u0mi.png"
+            style="display: block; margin: 0 auto; max-width: 20%; height: auto;">
+
+        {{ $t := .Site.GetPage "/section/dress" }}
+        <h1 class="section__heading">{{$t.Params.title}}</h1>
+        <section class="section__md-content">
+            {{ $t.Content }}
+        </section>
+
+        <br>
+    <!-- </section>
+    <section id="gifts" class="section light"> -->
+        {{ $t := .Site.GetPage "/section/gifts" }}
+        <h1 class="section__heading">{{$t.Params.title}}</h1>
+        <section class="section__md-content">
+            {{ $t.Content }}
+        </section>
+    </section>
+
+    <div class="image image2"></div>
+
+    <section id="more" class="section light" style="text-align:center;">
+        <!-- <div class="section__svg">
+            {{ partial "svgs/leaf.svg" . }}
+        </div> -->
+        <img src="https://res.cloudinary.com/dbntshoo1/image/upload/v1724344534/flores_zmzgiv.png"
+            style="display: block; margin: 0 auto; max-width: 20%; height: auto;">
+        <p style="margin-bottom:1em;">Obrigado por visitarem o nosso website!</p>
+        <p style="margin-bottom:1em;">Esperamos que a informação disponibilizada vos seja útil, mas caso necessitem de
+            algo mais, não hesitem em contactar-nos!</p>
+
+        </p>
+    </section>
+
+    <!-- <div class="scroll-top">
+        <a class="scroll-top__button" href="#top">
+            {{ partial "svgs/scroll-up.svg" . }}
+        </a>
+    </div> -->
+</main>
