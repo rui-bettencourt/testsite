@@ -55,4 +55,3 @@ document.addEventListener('DOMContentLoaded', () => {
         mobileMenuLinks[i].addEventListener('click', toggleBurger)
     }
 })
-

@@ -442,7 +442,7 @@ html {
 /* FOOTER */
 
 .footer {
-  padding: 20px 20px 20px 20px;
+  padding: 15px 20px 20px 20px;
   display: flex;
   flex-direction: column;
   text-align: center;
@@ -596,4 +596,49 @@ figcaption {
 
 .custom-link:hover {
   text-decoration: underline; /* Optional: Adds underline on hover */
+}
+
+/* Arrow Container */
+.arrow-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+/* Arrow Styling */
+.arrow-down {
+  font-size: 4em;
+  color: var(--golden); /* Adjust color to fit your theme */
+  animation: arrowFadeOut 3s ease-in-out forwards;
+  opacity: 1;
+  position: relative;
+  top: 0;
+  animation: arrowBounce 1s infinite, arrowFadeOut 3s ease-in-out forwards;
+}
+
+/* Bouncing Animation */
+@keyframes arrowBounce {
+  0%, 20%, 50%, 80%, 100% {
+      transform: translateY(0);
+  }
+  40% {
+      transform: translateY(-10px);
+  }
+  60% {
+      transform: translateY(-5px);
+  }
+}
+
+/* Fade Out Animation */
+@keyframes arrowFadeOut {
+  0% {
+      opacity: 1;
+  }
+  66% {
+      opacity: 1;
+  }
+  100% {
+    opacity: 0;
+      display: none;
+  }
 }
