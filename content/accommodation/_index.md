@@ -55,7 +55,7 @@ Preços (pequeno almoço incluido):
 
 <br>
 
-A <a href="https://quintadosmisterios.pt/" class="custom-link">Quinta dos Mistérios</a> é um imóvel classificado com interesse histórico construído no sécolo XVII, completamente renovado para alojamento e inclui um grande jardim e piscina. A renovação ligou os confortos modernos à estrutura original da casa e a dona, Dra. Graça, teve a preocupação de restaurar a mobília histórica, assim como preservar alguns elementos da vida do passado. Para quem gosta de história e contacto com natureza, é o local indicado. Existe um restaurante ao lado do alojamento.
+A <a href="https://quintadosmisterios.pt/" class="custom-link">Quinta dos Mistérios</a> é um imóvel classificado com interesse histórico construído no século XVII, completamente renovado para alojamento e inclui um grande jardim e piscina. A renovação ligou os confortos modernos à estrutura original da casa e a dona, Dra. Graça, teve a preocupação de restaurar a mobília histórica, assim como preservar alguns elementos da vida do passado. Para quem gosta de história e contacto com natureza, é o local indicado. Existe um restaurante ao lado do alojamento.
 
 <br>
 
