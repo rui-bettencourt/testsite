@@ -91,17 +91,19 @@
         <!-- <div class="section__svg">
             {{ partial "svgs/leaf.svg" . }}
         </div> -->
-        <div class="image-container">
-            <img src="https://res.cloudinary.com/dbntshoo1/image/upload/v1724335821/ferraafonso_hx9vz0.jpg" alt="Mariana num miradouro" style="max-width: 45%; height: auto;">
-            <img src="https://res.cloudinary.com/dbntshoo1/image/upload/v1724336329/IMG_20200814_182041_pxiveb.jpg" alt="Rui na fajã dos Cubres" style="max-width: 44.9%; height: auto;">
-        </div>
+        <section id="passeio">
+            <div class="image-container">
+                <img src="https://res.cloudinary.com/dbntshoo1/image/upload/v1724335821/ferraafonso_hx9vz0.jpg" alt="Mariana num miradouro" style="max-width: 45%; height: auto;">
+                <img src="https://res.cloudinary.com/dbntshoo1/image/upload/v1724336329/IMG_20200814_182041_pxiveb.jpg" alt="Rui na fajã dos Cubres" style="max-width: 44.9%; height: auto;">
+            </div>
 
-        <br>
+            <br>
 
-        {{ $t := .Site.GetPage "/section/passeio" }}
-        <h1 class="section__heading">{{$t.Params.title}}</h1>
-        <section class="section__md-content">
-            {{ $t.Content }}
+            {{ $t := .Site.GetPage "/section/passeio" }}
+            <h1 class="section__heading">{{$t.Params.title}}</h1>
+            <section class="section__md-content">
+                {{ $t.Content }}
+            </section>
         </section>
 
     </section>
@@ -124,10 +126,12 @@
         <br>
     <!-- </section>
     <section id="gifts" class="section light"> -->
-        {{ $t := .Site.GetPage "/section/gifts" }}
-        <h1 class="section__heading">{{$t.Params.title}}</h1>
-        <section class="section__md-content">
-            {{ $t.Content }}
+        <section id="gifts">
+            {{ $t := .Site.GetPage "/section/gifts" }}
+            <h1 class="section__heading">{{$t.Params.title}}</h1>
+            <section class="section__md-content">
+                {{ $t.Content }}
+            </section>
         </section>
     </section>
 

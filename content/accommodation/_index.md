@@ -3,7 +3,7 @@ draft: false
 title: "Alojamento"
 ---
 
-Para alojamento existem muitas opções em São Jorge mas sugerimos quatro boas opções a partir das quais irão ser organizados alguns **transfers** para facilitar o transporte para o evento. Por favor informem-nos até **15 de Março de 2025** se quiserem algum destes alojamentos e tentamos ajudar-vos a reservar e a organizar o alojamento. Todos os alojamentos podem incluir pequeno-almoço.
+Para alojamento existem muitas opções em São Jorge, contudo sugerimos quatro boas opções a partir das quais irão ser organizados por nós alguns transfers para facilitar o transporte para o evento. Por favor informem-nos até **15 de Março de 2025** se quiserem algum destes alojamentos, para orientarmos e organizarmos as reservas. Todos os alojamentos podem incluir pequeno-almoço.
 
 ## Cantinho das Buganvilias
 
@@ -14,7 +14,7 @@ Para alojamento existem muitas opções em São Jorge mas sugerimos quatro boas 
 <br>
 
 
-O <a href="https://www.cantinhodasbuganvilias.net/" class="custom-link">Cantinho das Buganvilias</a>, é o alojamento onde será realizado o casamento por isso se pretenderem ficar no local da festa, esta é a melhor escolha! Este alojamento é um aparthotel com 3 T1s e 16 T2s. Pedímos que nos digam **se estiverem dispostos a partilhar um T2** (2 quartos, 1 casa de banho) com algum conhecido que também vá ao casamento. Para ficarem cá o máximo de pessoas daremos prioridade a quem consiga partilhar.
+O <a href="https://www.cantinhodasbuganvilias.net/" class="custom-link">Cantinho das Buganvilias</a>, é o alojamento onde será realizado o casamento por isso se pretenderem ficar no local da festa, esta é a melhor escolha! Este alojamento é um aparthotel com três T1s e dezasseis T2s. **Pedímos que nos digam se estiverem dispostos a partilhar um T2** (2 quartos, 1 casa de banho) com algum conhecido que também vá ao casamento. O objetivo seria alojar o máximo de pessoas e portanto dar prioridade a quem possa partilhar.
 
 <br>
 
@@ -23,6 +23,9 @@ Preços:
 -T1: Single 75€ por noite; Duplo 85€ por noite
 
 -T2: De 85€ a 150€ por noite conforme o número de pessoas e se é rés-do-chão.
+
+Pequeno almoço mediante reserva: 8,5€ por adulto por noite
+
 <br>
 
 ## Casa do António
@@ -34,11 +37,11 @@ Preços:
 
 <br>
 
-A <a href="https://casadoantonio.com/" class="custom-link">Casa do AntónioCasa do António</a> é um Bed & Breakfast muito bem localizado no coração da vila das Velas, com fácil acesso a pé à restauração e todo o comércio local. Contém 8 quartos singles ou duplos, sendo um deles um quarto superior com varanda privada denominado quarto da torre. Tem uma excelente vista para a baía do porto das Velas e para a ilha do Pico.
+A <a href="https://casadoantonio.com/" class="custom-link">Casa do António</a> é um Bed & Breakfast muito bem localizado no coração da vila das Velas, perto da Igreja onde se vai realizar o casamento. Tem fácil acesso a pé à restauração e todo o comércio local. Contém 8 quartos singles ou duplos, sendo um deles um quarto superior com varanda privada denominado quarto da torre. Tem uma excelente vista para a baía do porto das Velas e para a ilha do Pico. Encontra-se a 5 minutos a pé de uma zona balnear, a Poça dos Frades.
 
 <br>
 
-Preços: 
+Preços (pequeno almoço incluido): 
 
 -Single 68€ por noite; Duplo 80€ por noite; Quarto da Torre 92€
 <br>
@@ -52,13 +55,13 @@ Preços:
 
 <br>
 
-A <a href="https://quintadosmisterios.pt/" class="custom-link">Quinta dos Mistérios</a> foi criada após renovação de uma casa histórica de São Jorge. É um imóvel classificado com interesse histórico construído no sécolo XVII, com um jardim enorme nas traseiras com uma piscina. Sofreu recentemente uma enorme renovação que liga os confortos modernos à estrutura original da casa e mobilia histórica restaurada. Para quem gosta de ficar alojado em alojamentos com mais história, é o local indicado. Existe um restaurante ao lado do alojamento.
+A <a href="https://quintadosmisterios.pt/" class="custom-link">Quinta dos Mistérios</a> é um imóvel classificado com interesse histórico construído no sécolo XVII, completamente renovado para alojamento e inclui um grande jardim e piscina. A renovação ligou os confortos modernos à estrutura original da casa e a dona, Dra. Graça, teve a preocupação de restaurar a mobília histórica, assim como preservar alguns elementos da vida do passado. Para quem gosta de história e contacto com natureza, é o local indicado. Existe um restaurante ao lado do alojamento.
 
 <br>
 
-Preços: 
+Preços (pequeno almoço incluido): 
 
--TODO
+- Pendente confirmação
 <br>
 
 ## Quinta da Magnólia
@@ -70,11 +73,11 @@ Preços:
 
 <br>
 
-A <a href="https://www.quintadamagnolia.com/" class="custom-link">Quinta da Magnólia</a> é um alojamento rural de excelência localizado na freguesia da Urzelina cuja arquitetura é baseada no basalto açoreano. Tem também um espaço exterior agradável e uma piscina. É dos quatro o alojamento mais longe do copo-de-água a uns estonteantes 8 minutos de carro. Este alojamento tem o restaurante Urzelina a 5 minutos a pé.
+A <a href="https://www.quintadamagnolia.com/" class="custom-link">Quinta da Magnólia</a> é um alojamento rural de excelência localizado na freguesia da Urzelina cuja arquitetura e construção é predominantemente em basalto Açoreano. Tem também um espaço exterior agradável e uma piscina. Dos quatro, é o alojamento mais longe do copo-de-água, a uns estonteantes 8 minutos de carro. Este alojamento tem o restaurante Urzelina a 5 minutos a pé.
 
 <br>
 
-Preços: 
+Preços (pequeno almoço incluido):
 
 -Quarto de 125€ a 170€ por noite; suites de 190€ a 235€ por noite
 <br>
