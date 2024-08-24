@@ -24,7 +24,7 @@ Preços:
 
 -T2: De 85€ a 150€ por noite conforme o número de pessoas e se é rés-do-chão.
 
-Pequeno almoço mediante reserva: 8,5€ por adulto por noite
+Pequeno almoço mediante reserva: 5€ por adulto por noite
 
 <br>
 
