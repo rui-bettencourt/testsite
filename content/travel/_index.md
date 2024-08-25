@@ -17,7 +17,7 @@ O casamento irá realizar-se na ilha de São Jorge, Açores, na vila das Velas. 
 
 ## De avião
 
-Não há voos diretos de Lisboa para São Jorge. Existem voos de ligação inter-ilhas, sendo necessário pelo menos 2 voos (1 voo até aos Açores e outro inter-ilhas até São Jorge). Sugerimos que viagem pela companhia SATA, uma vez que, em caso de cancelamento ou atraso de voos, a companhia habitualmente encarrega-se do novo voo e de alojamento.
+Não há voos diretos de Lisboa para São Jorge. Existem voos de ligação inter-ilhas, sendo necessário pelo menos 2 voos (1 voo até aos Açores e outro inter-ilhas até São Jorge). Sugerimos que viajem pela companhia SATA, uma vez que, em caso de cancelamento ou atraso de voos, a companhia habitualmente encarrega-se do novo voo e de alojamento.
 
 ## De barco
 
