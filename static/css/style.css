@@ -57,7 +57,7 @@ html {
   filter: saturate(0);
 }
 
-@media only screen and (min-width: 1100px) {
+@media only screen{
 
   .image {
     min-height: 200px;
@@ -69,6 +69,18 @@ html {
     background-size: cover;
 
     height: 500px;
+  }
+}
+
+@supports (-webkit-overflow-scrolling: touch) {
+  /* Your iOS-specific styles here */
+  .image {
+      /* iOS specific styles */
+      height: 50vh;
+      background-size: cover;
+      background-position: bottom;
+      filter: saturate(0);
+      /* background-attachment: scroll; Disable parallax on iOS for better performance */
   }
 }
 
