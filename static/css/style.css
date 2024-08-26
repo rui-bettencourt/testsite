@@ -80,7 +80,7 @@ html {
       background-size: cover;
       background-position: bottom;
       filter: saturate(0);
-      /* background-attachment: scroll; Disable parallax on iOS for better performance */
+      background-attachment: scroll; /*Disable parallax on iOS for better performance*/
   }
 }
 
