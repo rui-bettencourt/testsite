@@ -14,7 +14,7 @@ Para alojamento existem muitas opções em São Jorge, contudo sugerimos quatro 
 <br>
 
 
-O <a href="https://www.cantinhodasbuganvilias.net/" class="custom-link">Cantinho das Buganvílias</a>, é o alojamento onde será realizado o casamento por isso se pretenderem ficar no local da festa, esta é a melhor escolha! Este alojamento é um aparthotel com três T1s e dezasseis T2s. **Pedímos que nos digam se estiverem dispostos a partilhar um T2** (2 quartos, 1 casa de banho) com algum conhecido que também vá ao casamento. O objetivo seria alojar o máximo de pessoas e portanto dar prioridade a quem possa partilhar.
+O <a href="https://www.cantinhodasbuganvilias.net/" class="custom-link">Cantinho das Buganvílias</a>, é o alojamento onde será realizado o casamento por isso se pretenderem ficar no local da festa, esta é a melhor escolha! Este alojamento é um aparthotel com três T1s e dezasseis T2s. **Pedimos que nos digam se estiverem dispostos a partilhar um T2** (2 quartos, 1 casa de banho) com algum conhecido que também vá ao casamento. O objetivo seria alojar o máximo de pessoas e portanto dar prioridade a quem possa partilhar.
 
 <br>
 
@@ -61,7 +61,7 @@ A <a href="https://quintadosmisterios.pt/" class="custom-link">Quinta dos Misté
 
 Preços (pequeno almoço incluido): 
 
-- Quartos de 120€ a 150€ por noite; suíte a 200€ por noite (Pendente confirmação)
+- Single de 84€ a 93€ por noite; Duplo de 102€ a 139€ por noite; Suite para 2 pessoas 167€ por noite
 <br>
 
 ## Quinta da Magnólia
