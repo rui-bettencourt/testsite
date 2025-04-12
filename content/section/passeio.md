@@ -20,3 +20,8 @@ Segue-se uma visita à fajã do Ouvidor, com visita à poça de Simão Dias. O p
 
 &nbsp;&nbsp;&nbsp;&nbsp; Visita ao sul da ilha, incluíndo artesanato, Urzelina e miradouro com vista para a Calheta. De seguida visita-se o norte da ilha, passando pelo miradouro da fajã dos Cubres e miradouro da fajã do Ouvidor. Também está planeada uma visita à poça de Simão Dias, uma piscina natural na fajã do Ouvidor. O passeio termina no parque florestal das Sete Fontes.
 
+<br>
+
+Sugestões para visitar na ilha fora destes tours são: fábrica do queijo São Jorge, ponta dos Rosais (farol da ponta, miradouro da baleia, miradouro do pico da velha, miradouro Ferrã Afonso), baloiço da Fajã de João Dias, vila das Velas, pico da Esperança (se não estiver nublado), fajã dos Vimes, fajã de S. João, cascata do cruzal e ponta do Topo.
+
+Podem visualizar sugestões de <a href="https://maps.app.goo.gl/2ScN1x28REhgjjkU9" class="custom-link">miradouros</a> e <a href="https://maps.app.goo.gl/7dXjbY4PS5Jd7JCW7" class="custom-link">restaurantes</a> nestes google maps.
