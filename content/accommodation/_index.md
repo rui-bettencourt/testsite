@@ -3,7 +3,7 @@ draft: false
 title: "Alojamento"
 ---
 
-Para alojamento existem muitas opções em São Jorge, contudo sugerimos quatro boas opções a partir das quais irão ser organizados por nós alguns transfers para facilitar o transporte para o evento. Por favor informem-nos até **15 de Março de 2025** se quiserem algum destes alojamentos, para orientarmos e organizarmos as reservas. Todos os alojamentos podem incluir pequeno-almoço.
+Para alojamento existem muitas opções em São Jorge, contudo sugerimos quatro boas opções a partir das quais irão ser organizados por nós alguns transfers para facilitar o transporte para o evento. Por favor informem-nos o mais cedo possível se quiserem algum destes alojamentos, para orientarmos e organizarmos as reservas. Todos os alojamentos podem incluir pequeno-almoço.
 
 ## Cantinho das Buganvílias
 
